@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/b-akash-387162256)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepan-s-614005256/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Code explorer.
 
@@ -23,8 +23,8 @@
 
 
 
-![Akash242005's Stats](https://github-readme-stats.vercel.app/api?username=Akash242005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Deepansubraman's Stats](https://github-readme-stats.vercel.app/api?username=Deepansubraman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Akash242005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=tokyonight&hide_border=true)
+![Deepansubraman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepansubraman&theme=vue-dark&hide_border=true)
 
-[![LeetCode Stats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/AKASH2403/)
+![LeetCode Stats](https://leetcode.panchajanya.dev/deepansubramani?theme=forest&font=Buenard&ext=contest)
