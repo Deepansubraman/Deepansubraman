@@ -24,8 +24,8 @@
 
 ---
 
-## 🌐 Portfolio — Not your typical Canva resume 👇  
-[🚀 deepak18.my.canva.site](https://deepak18.my.canva.site/bachelor-in-electronics-and-communication-engineering-at-m-kumarasamy-college-of-engineering-2022-2026)
+## 🌐 Portfolio  👇  
+\(https://deepansubraman.github.io/portfolio./)
 
 ---
 
