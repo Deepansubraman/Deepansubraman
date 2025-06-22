@@ -1,49 +1,45 @@
 
-# 🤯 Deepan: The Full-Stack Overthinker
+# 🧠 Deepan.exe has entered the chat
 
-> `Welcome to the README equivalent of ctrl+alt+wow.`  
-> Warning: Contains traces of recursion, memes, and ambition.
-
----
-
-## 🛸 The Origin Story
-
-🧑‍🎓 **Electronics & Communication Engineering**  
-🎮 Passionate coder since "Hello World" crashed my terminal  
-🧬 Half engineer, half algorithm, full-time bug hunter
-
-I don't just code — I **summon functions**, **tame loops**, and occasionally **segfault into the void**.
+> `Welcome to my brain’s public repo.`  
+> Bug-free (90% of the time), coffee-powered (110% of the time).
 
 ---
 
-## ⚡ Currently Plugged Into
+## 👨‍🚀 Who Am I?
 
-- Learning: `DSA`, but with the flair of Marvel origin stories  
-- Practicing: `LeetCode until my keyboard gives up`  
-- Dreaming: `Placements in FAANG... or Hogwarts, whichever comes first`  
-- Building: `Side projects that start with “What if…?” and end with “Why not?”`
+- 🎓 Bachelor in **Electronics & Communication Engineering**  
+  *(Yeah, I talk to signals and write code they understand.)*
+
+- 🧮 Currently decoding:
+  - **DSA** (Data Structures & Avengers?)
+  - **FAANG Interview Boss Levels**
+
+- 💻 Debugged my way from `print("Hello World")` to `AI/ML pipelines`, and I’m not done yet.
+
+- 🧪 Passion Projects:  
+  - Turning caffeine into code  
+  - Running `npm install` like it’s a ritual  
+  - Reading error logs like bedtime stories
 
 ---
 
-## 💼 Portfolio Link (No stock templates, just pure Deepan DNA)  
-[🔗 Click me to teleport](https://deepak18.my.canva.site/bachelor-in-electronics-and-communication-engineering-at-m-kumarasamy-college-of-engineering-2022-2026)
+## 🌐 Portfolio — Not your typical Canva resume 👇  
+[🚀 deepak18.my.canva.site](https://deepak18.my.canva.site/bachelor-in-electronics-and-communication-engineering-at-m-kumarasamy-college-of-engineering-2022-2026)
 
 ---
 
-## 🧙 Skills & Tech Magic
+## 🧙 Tech Stack? More Like My Spellbook:
 
-```ts
-const deepan = {
-  languages: ["Python", "C++", "JavaScript", "HTML", "CSS", "SQL"],
-  frameworks: ["Web Dev WIP", "Data Science Potion Brewing"],
-  tools: ["VS Code", "Git", "Power BI", "StackOverflow Scrolls"],
-  hobbies: ["Debugging Reality", "Memefying Errors", "Rewriting History with Git"]
-};
+```bash
+Languages:     Python | C++ | C | JavaScript | HTML/CSS | SQL  
+Tools:         VS Code | Git | Power BI | Debugging Instinct™  
+Practicing:    DSA | Web Dev | Data Science | Mind Control (WIP)
 ```
 
 ---
 
-## 🛠️ My Stack Squad
+## 🤖 I Code Therefore I Am
 
 <img src="https://img.icons8.com/color/48/python.png" title="Python" height="40"/>
 <img src="https://img.icons8.com/color/48/c-programming.png" title="C" height="40"/>
@@ -55,7 +51,7 @@ const deepan = {
 
 ---
 
-## 🔨 Dev Tools = Mood Boosters
+## 💻 My Battle Gear
 
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" height="40"/>
 <img src="https://img.icons8.com/color/48/git.png" title="Git" height="40"/>
@@ -63,42 +59,44 @@ const deepan = {
 
 ---
 
-## 🧠 Training Arc (a.k.a. Practice Platforms)
+## 🧠 Platforms Where I Sweat Code
 
 <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" title="GFG" height="40"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode" height="40"/>
 
 ---
 
-## 📈 My Code Has Stats Too
+## 📈 Live Metrics From My Coding Soul:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepansubraman&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepansubraman&theme=gruvbox&hide_border=true)
-![LeetCode Stats](https://leetcode.panchajanya.dev/deepansubramani?theme=gruvbox&font=Fira+Code&ext=contest)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepansubraman&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepansubraman&theme=tokyonight&hide_border=true)
+![LeetCode Stats](https://leetcode.panchajanya.dev/deepansubramani?theme=tokyo-night&font=JetBrains+Mono&ext=contest)
 
 ---
 
-## 📫 How to Ping Me Without DDoS-ing My Brain
+## 📬 How to Interrupt My Debugging Flow:
 
 [![LinkedIn](https://img.shields.io/badge/Deepan_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepan-s-614005256/)
 
 ---
 
-## ⚠️ Deepan’s Debug Notes
+## ⚠️ Fun Fact Alert
 
-- Life has no undo, but Git has `revert`  
-- Best IDE? Coffee + VS Code  
-- Typing speed: 100wpm when deleting code  
-- Favorite loop? Infinite one — when procrastinating
-
----
-
-## 🧠 TL;DR
-
-> Just a code-loving human trying to pass all test cases — in life and in LeetCode.
-
-> If you’ve laughed, learned, or cringed — we should definitely collaborate 🚀
+- I once tried to `git commit --amend` my life choices.  
+- My brain throws a 404 when there's no WiFi.  
+- I read error messages like ancient scrolls.  
+- StackOverflow is basically my spirit animal.
 
 ---
 
-🧩 `P.S.`: This README auto-saves your admiration to `~/inspiration.log`
+## 🪄 TL;DR:
+
+> 👾 Software enthusiast.  
+> 🧠 Logic-lover.  
+> 🧑‍🚀 Tech adventurer.  
+> ⚡️ Building the future, one commit at a time.
+
+---
+
+_If my README made you smile, laugh, or raise an eyebrow, we should definitely connect._  
+Ping me — let’s ship ideas together 🚀
