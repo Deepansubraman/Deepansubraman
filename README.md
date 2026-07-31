@@ -196,6 +196,96 @@ C++          ██░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
+## 🃏 GitHub Profile Summary (Rank + Percentiles)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepansubraman&theme=tokyonight" alt="Profile Summary"/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepansubraman&theme=tokyonight" alt="Stats Summary"/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepansubraman&theme=tokyonight" alt="Repos per Language"/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepansubraman&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+---
+
+## 🎧 Now Playing (Spotify, Live)
+
+<p align="center">
+  <img src="https://novatorem-deepansubraman.vercel.app/api/spotify" alt="Spotify Now Playing"/>
+</p>
+
+> ⚙️ Setup note: [`novatorem/novatorem`](https://github.com/novatorem/novatorem) — deploy your own instance on Vercel, link your Spotify account, and this card shows exactly what you're listening to *right now*, live, embedded in your README.
+
+---
+
+## ✍️ Latest Blog Posts (Auto-Synced)
+
+<!-- BLOG-POST-LIST:START -->
+- Your latest article will appear here automatically
+- So will your next one
+- And the one after that
+<!-- BLOG-POST-LIST:END -->
+
+> ⚙️ Setup note: [`gautamkrishnar/blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow) — point it at your RSS feed (Medium, Dev.to, Hashnode, whatever you use) and it rewrites this list every time you publish. Zero manual updates.
+
+---
+
+## 🌍 Visitor World Map
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Deepansubraman/count.svg" alt="Visitor Map"/>
+</p>
+
+---
+
+## 🔥 Animated Streak Flame
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-git-master-timolins.vercel.app/?user=Deepansubraman&theme=highcontrast&fire=FF6B00" alt="Streak Flame"/>
+</p>
+
+---
+
+## ⏳ Days Since I Wrote My First Line of Code
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=00F5FF&label=Coding%20Journey&query=%24.days&suffix=%20days%20and%20counting&url=https%3A%2F%2Fapi.some-days-counter.dev%2Ffrom%2F2021-01-01&style=for-the-badge" alt="Days Coding"/>
+</p>
+
+> ⚙️ Setup note: swap the date in the URL for your actual "day one," and pair it with any date-diff API (or a tiny serverless function) — a live, ever-increasing counter of your coding journey.
+
+---
+
+## 🖥️ Terminal Snapshot (Static Art, Always Renders)
+
+```ansi
+┌─[deepan@dev-machine]─[~/portfolio]
+└──╼ $ git log --oneline -5
+a3f9c21  fix: black hole bg render lag on mobile
+7b21e0a  feat: glassmorphism satellite cards
+c4d8f13  perf: swapped three.js orbit for CSS animation
+912ab5e  fix: z-index war between cards and starfield
+0e4f2a1  init: profile links site scaffold
+
+└──╼ $ echo "status"
+> Compiling ambition... 87% complete. ETA: FAANG offer.
+```
+
+---
+
+## 🧭 Compile-Time Horoscope
+
+> *"Mercury is in retrograde, but so is your last merge conflict. Resolve it manually — the stars won't `git rebase` for you."*
+
+---
+
+## ☕ Fuel My Next Commit
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/deepansubraman"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+</p>
+
+---
+
 ## 🎲 Random Dev Wisdom (Refreshes Every Visit)
 
 <p align="center">
