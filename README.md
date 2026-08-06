@@ -32,7 +32,7 @@ $ status --current
 ## 👨‍🚀 Who Am I?
 
 - 🎓 Bachelor in **Electronics & Communication Engineering**
-  *(Yeah, I talk to signals and write code they understand.)*
+  _(Yeah, I talk to signals and write code they understand.)_
 - 🧮 Currently decoding:
   - **DSA** (Data Structures & Avengers?)
   - **FAANG Interview Boss Levels**
@@ -59,13 +59,13 @@ $ status --current
 
 ## 🎯 Currently Debugging (a.k.a. What I'm Up To)
 
-| Status | Task |
-|---|---|
-| 🟢 Active | Solving DSA problems daily on LeetCode / GFG |
-| 🟡 In Progress | Preparing for FAANG-style technical interviews |
-| 🔵 Exploring | AI/ML pipelines & applied data science |
-| 🟣 Shipping | Personal portfolio + side projects |
-| ⚪ Always On | Reading docs I should've read before starting the project |
+| Status         | Task                                                      |
+| -------------- | --------------------------------------------------------- |
+| 🟢 Active      | Solving DSA problems daily on LeetCode / GFG              |
+| 🟡 In Progress | Preparing for FAANG-style technical interviews            |
+| 🔵 Exploring   | AI/ML pipelines & applied data science                    |
+| 🟣 Shipping    | Personal portfolio + side projects                        |
+| ⚪ Always On   | Reading docs I should've read before starting the project |
 
 ---
 
@@ -78,9 +78,9 @@ $ status --current
 ## 🧙 Tech Stack? More Like My Spellbook
 
 ```yaml
-Languages:     Python | C++ | C | JavaScript | HTML/CSS | SQL
-Tools:         VS Code | Git | Power BI | Debugging Instinct™
-Practicing:    DSA | Web Dev | Data Science | Mind Control (WIP)
+Languages: Python | C++ | C | JavaScript | HTML/CSS | SQL
+Tools: VS Code | Git | Power BI | Debugging Instinct™
+Practicing: DSA | Web Dev | Data Science | Mind Control (WIP)
 Weapon of Choice: Ctrl+Z (my real superpower)
 ```
 
@@ -163,7 +163,7 @@ C++          ██░░░░░░░░░░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deepansubraman&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </p>
 
-> ⚙️ Setup note: install the WakaTime extension in VS Code, connect your account, and this card auto-fills with your *real* weekly coding hours by language — no manual updates ever.
+> ⚙️ Setup note: install the WakaTime extension in VS Code, connect your account, and this card auto-fills with your _real_ weekly coding hours by language — no manual updates ever.
 
 ---
 
@@ -213,13 +213,14 @@ C++          ██░░░░░░░░░░░░░░░░░░░░�
   <img src="https://novatorem-deepansubraman.vercel.app/api/spotify" alt="Spotify Now Playing"/>
 </p>
 
-> ⚙️ Setup note: [`novatorem/novatorem`](https://github.com/novatorem/novatorem) — deploy your own instance on Vercel, link your Spotify account, and this card shows exactly what you're listening to *right now*, live, embedded in your README.
+> ⚙️ Setup note: [`novatorem/novatorem`](https://github.com/novatorem/novatorem) — deploy your own instance on Vercel, link your Spotify account, and this card shows exactly what you're listening to _right now_, live, embedded in your README.
 
 ---
 
 ## ✍️ Latest Blog Posts (Auto-Synced)
 
 <!-- BLOG-POST-LIST:START -->
+
 - Your latest article will appear here automatically
 - So will your next one
 - And the one after that
@@ -274,7 +275,7 @@ c4d8f13  perf: swapped three.js orbit for CSS animation
 
 ## 🧭 Compile-Time Horoscope
 
-> *"Mercury is in retrograde, but so is your last merge conflict. Resolve it manually — the stars won't `git rebase` for you."*
+> _"Mercury is in retrograde, but so is your last merge conflict. Resolve it manually — the stars won't `git rebase` for you."_
 
 ---
 
@@ -337,5 +338,9 @@ print(add(2, 2))  # expected 4, got... a surprise
 <p align="center">Ping me — let's ship ideas together 🚀</p>
 
 ## Testing my first pull request
+
 ## Second pull request for Pull Shark
+
 ## Testing Pair Extraordinaire Badge
+
+## Pair Extraordinaire Attempt
